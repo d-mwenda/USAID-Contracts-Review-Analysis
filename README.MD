@@ -1,4 +1,4 @@
-# DOGE Review of USAID Contracts Review
+# An Analysis of DOGE's Review of USAID Contracts
 
 ## Summary
 We begin from this 284 page pdf memo dated **March 24, 2025** from one Ryan Shrum, Senior Advisor for Legislative and Congressional Affairs, to the congress,  with the subject **Update on USAID Financial and Personnel Status as of March 21, 2025**.
